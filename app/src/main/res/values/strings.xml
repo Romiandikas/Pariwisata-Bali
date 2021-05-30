@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pariwisata Bali</string>
+    <string name="wisata_alam">Wisata Alam</string>
+    <string name="detail_wisata">Detail Wisata</string>
+</resources>
